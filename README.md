@@ -1,1 +1,1 @@
-# Hackathon_rbm
+# SampleProject
